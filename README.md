@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋 I'm Barkha Tejwani
 
-<!--
-**barkhatejwani19/barkhatejwani19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ACCA Finalist | B.Com 2026 | Finance & Accounting**
 
-Here are some ideas to get you started:
+🎓 **Academic Highlights**
+- 🏆 All India Rank 2 & World Rank 9 — ACCA Taxation
+- ✅ ACCA Advanced Diploma in Accounting and Business (May 2026)
+- ✅ ACCA Diploma in Accounting and Business — RQF Level 4 (May 2026)
+- 📜 Certificate of Achievement — Financial Accounting
+- 📜 Certificate of Achievement — Corporate and Business Law
+- ✅ CA CPT Cleared
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Currently**
+- Completing ACCA Professional Level papers
+- Targeting Big 4 / EY GDS roles in Pune
+- Based in Aurangabad (Chhatrapati Sambhajinagar), Maharashtra
+
+🛠️ **Skills & Tools**
+- Microsoft Excel & Copilot (Certified)
+- Financial Accounting | Taxation | Audit | Corporate Law
+- EY Audit Job Simulation (Forage)
+- Learning: Power BI, AI for Finance
+
+📫 **Connect with me**
+- LinkedIn: [barkha-tejwani](https://www.linkedin.com/in/barkha-tejwani-4833a1358)
+- Email: barkhatejwani19@gmail.com
+
+---
+*"Building a career in finance, one milestone at a time."*
